@@ -62,6 +62,16 @@ section > p, .rtitle {
 .rtitle {
     top: 20%;
 }
-.s1 {
-    border-bottom: 1,5rem solid black;
-}
+
+.footer {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-block: 2rem;
+    background-color: var(--grey-200);
+  }
+  
+  .copyright {
+    display: block;
+    text-align: center;
+  }
+  
